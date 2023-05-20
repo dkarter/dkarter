@@ -16,7 +16,7 @@ I am a firm believer in lifelong learning. In the ever-evolving world of technol
 
 ### 🚀 Leadership and Collaboration:
 
-As a Staff Engineer, I strive to drive technical vision, mentor budding engineers, and facilitate a culture of collaboration and open dialogue. I enjoy working with diverse teams and believe that the best solutions emerge from the amalgamation of unique perspectives.
+As a Staff Engineer, I strive to drive technical vision, mentor budding engineers, and facilitate a culture of collaboration and open dialogue. Rather than simply focusing on my personal output, I see my role as a force multiplier – accelerating the productivity and growth of the entire team by sharing knowledge and enabling others to work more effectively. I enjoy working with diverse teams and believe that the best solutions emerge from the amalgamation of unique perspectives.
 
 ### 🔨 Building with Purpose:
 
