@@ -8,7 +8,7 @@ I deeply believe in the philosophy of iterative development and incremental prog
 
 ### 💻 Technical expertise:
 
-My technical journey has led me to become proficient in a variety of technologies, with particular love for Elixir, TypeScript, React, and Postgres. Whether it's crafting elegant UIs with React, writing elegant and well-architected backend logic with Elixir, or ensuring data consistency and security with Postgres, I'm comfortable throughout the stack. I've also worked on complex distributed systems, ensuring high availability and fault tolerance.
+My technical journey has led me to become proficient in a variety of technologies, with particular love for Elixir, TypeScript, React, and Postgres. Whether it's crafting elegant UIs with React, writing fault-tolerant, scalable backend logic with Elixir, or ensuring data consistency and security with Postgres, I'm comfortable throughout the stack. I've also worked on complex distributed systems, ensuring high availability and fault tolerance.
 
 ### 🌱 Continuous Learning:
 
